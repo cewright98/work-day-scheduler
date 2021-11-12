@@ -7,7 +7,7 @@ A website that allows the user to enter and save their daily schedule into hourl
 * Header that displays the current date
 * Time blocks for each hour of the work day (9-5) that are color-coded depending on if they are current, in the past, or in the future
 * Text boxes within each block that can be edited by the user
-* Buttons within each block that allow the user to save their schedule input
+* Buttons within each block that allow the user to save their schedule input to local storage
 
 ## Built With
 * HTML
